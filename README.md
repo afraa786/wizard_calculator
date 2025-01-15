@@ -5,7 +5,7 @@ Gather 'round, code wizards! Deep within the ancient library of Programming, the
 
 But hold on, it gets better! We want this app to have a sleek and simple UI, paired with some clever state management to keep everything running smoothly. Think of it as a magical calculator that not only performs arithmetic operations but also whispers sweet secrets to those who know the right codes.Can you bring this enchanting calculator to life? Let’s turn those digits into delightful discoveries! 🧙‍♂️✨
 
-Objective: Develop a Flutter/React Native application. Additionally, produce a video POC showcasing the app's functionality (you can utilize an emulator to run the application and record your laptop screen using OBS Studio), and upload the generated APK file. 
+Objective: Develop a Dart application. Additionally, produce a video POC showcasing the app's functionality (you can utilize an emulator to run the application and record your laptop screen using OBS Studio), and upload the generated APK file. 
 
 ## 🧙‍♂️ How It Works
 1. **Basic Arithmetic**:
