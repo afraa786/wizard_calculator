@@ -1,4 +1,4 @@
-# Wizard's Calculator
+# Wizard's Calculator 🔮
 
 ## Problem Statement
 Gather 'round, code wizards! Deep within the ancient library of Programming, there’s a dusty old calculator that’s just itching to reveal its secrets. Your quest? Create a basic calculator app that does more than just crunch numbers—it’s got a hidden message waiting to be uncovered when users enter specific number combinations.
